@@ -1,0 +1,124 @@
+BASIC
+ID - Players ID
+Name - Players Name
+Age - Players Age
+OVA - Overall score
+Nationality - ...
+Club - ... 
+BOV - Best Overall
+BP - Best Position
+Position - Position they can play
+POT - Potential
+Team & Contract - 
+Height - 
+Weight - 
+foot - 
+Growth - 
+Joined
+Loan Date End
+Value
+Wage
+Release Clause
+Contract
+
+ATTACKING
+Attacking
+Crossing
+Finishing
+Heading Accuracy
+Short Passing
+Volleys
+
+SKILL
+Skill
+Dribbling
+Curve - the player's ability to curve the ball when passing and shooting.
+FK Accuracy - Free Kick Accuracy
+Long Passing
+Ball Control
+Movement
+Acceleration
+Sprint Speed
+Agility
+Reactions
+Balance
+Power
+Shot Power
+Jumping
+Stamina
+Strength
+Long Shots
+
+MENTALITY
+Mentality
+Aggression
+Interceptions
+Positioning
+Vision
+Penalties
+Composure
+
+DEFENDING 
+Defending
+Marking
+Standing Tackle
+Sliding Tackle
+
+GOALKEEPING
+Goalkeeping
+GK Diving
+GK Handling
+GK Kicking
+GK Positioning
+GK Reflexes
+
+SPECIALS
+Total Stats
+Base Stats
+W/F - Often used as an acronym, WF refers to a player’s abilities with his weaker foot, an often-ignored but highly important attribute in a player’s all-round skill and value.
+SM - All players are assigned a score out of five for their ability to pull off skill moves. Certain skill moves are only available to players of a specific level of ability.
+A/W - Attacking Workrate
+D/W - Defensive Workrate
+IR - International Reputation
+PAC - The speed of a player.
+SHO - The player’s shooting ability.
+PAS - A player’s passing ability.
+DRI - A player’s dribbling ability.
+DEF - A player’s all-round defensive abilities, including tackling, heading and positioning.
+PHY - A player’s overall physical attributes, including their strength.
+
+POSITIONS
+LS - Left striker
+ST - Striker
+RS - Right Striker
+
+LW - Left winger (typically more attack-minded than a left midfielder)
+LF - Left forward
+CF - Center forward
+RF - Right Forward
+RW - Right winger (a more attacking option than a right midfielder)
+
+LAM - Left attacking midfielder
+CAM - Central attacking midfielder
+RAM - Right Attacking Midfielder
+LM - Left midfielder
+LCM - Left Centre midfielder
+CM - Centre midfielder
+RCM - Right Centre midfielder
+RM - Right midfielder
+LWB - Left Wing Back
+LDM - Left Defensive midfielder
+CDM - Central defensive midfielder
+RDM - Right Defensive midfielder
+
+RWB - Right Wing Back
+LB - Left back
+LCB - Left Center Back
+CB - Centre back
+RCB - Right Center Back
+RB - Right back
+
+GK - Goalkeeper
+
+
+We have 16176 unique players, with 167 Nationalities and in 917 clubs.
